@@ -103,7 +103,7 @@ export default function Banner() {
       className="mt-4"
     >
       <p className="text-lg text-[#DEDEDE] font-medium">
-        Fill out our online booking form to schedule your move with JVEC MOVERS. Provide details about your move, and we'll get back to you with a customized plan and quote.
+        Fill out our online booking form to schedule your move with JVEC MOVERS. Provide details about your move, and well get back to you with a customized plan and quote.
       </p>
     </motion.div>
   </div>
